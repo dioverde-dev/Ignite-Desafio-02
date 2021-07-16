@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/main.png" alt="Image of the ignite-desafio-02 application" width="300px">
+  <img src="./.github/logo.png" alt="Image of the ignite-desafio-02 application" width="300px">
 </p>
 
 <p align="center">	
